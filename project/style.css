@@ -1,0 +1,28 @@
+#tasks{
+    padding: 10px;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 20px;
+ 
+    color: rgb(31, 88, 242);
+    justify-content: space-between;
+    margin-top: 10px;
+    
+}
+#tasks .delete{
+
+color: red;
+  
+   float: right;
+   font-size: 30px;
+   align-items: center;
+   margin: 0;
+   cursor: pointer;
+}
+
+#single-task{
+    margin-bottom: 22px;
+}
+#tasks input{
+    display: none;
+}
